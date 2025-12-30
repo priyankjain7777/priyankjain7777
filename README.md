@@ -1,5 +1,5 @@
 # 💫 About Me:
-Based in Dubai, QA Engineer with 11 years of experience. Currently I'm working on playwright typescript automation framework<br>I'm looking to collaborate on hybrid framework<br>I'm looking for help with experts in automation architecture designing for AI based application testing<br>I'm currently learning type script<br>Ask me about how to get jobs in Dubai<br>I love traveling I have travelled five countries till now
+Hi I'm Priyank Jain, QA engineer, Based in Dubai,with 11 years of experience in quality engineering. Currently I'm working on playwright typescript automation framework<br>I'm looking to collaborate on hybrid framework<br>I'm looking for help with experts in automation architecture designing for AI based application testing<br>I'm currently learning type script<br>Ask me about how to get jobs in Dubai<br>I love traveling I have travelled five countries till now
 
 
 ## 🌐 Socials:
