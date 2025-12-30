@@ -12,8 +12,7 @@ Hi I'm Priyank Jain, QA engineer, Based in Dubai,with 11 years of experience in 
 ![](https://nirzak-streak-stats.vercel.app/?user=priyankjain7777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankjain7777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyankjain7777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priyankjain7777&icon=0&color=0)](https://visitcount.itsvg.in)
